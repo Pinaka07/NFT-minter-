@@ -25,5 +25,3 @@ npm start
 ## Deployment
 - Hosted on Vercel
 - Contract deployed on Sepolia
-
-*/
